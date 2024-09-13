@@ -1,0 +1,46 @@
+{
+	// http://www.sublimetext.com/docs/3/color_schemes.html
+	"variables": {
+	},
+	"globals": {
+	// "foreground": "var(green)",
+	},
+	"rules": [
+		{
+			"name": "IMPORTANT COMMENTS",
+			"scope": "comments.important",
+			"foreground": "rgba(255,0,0,1)",
+			"background": "rgba(255,0,0,0.05)",
+		},
+		{
+			"name": "DEPRECATED COMMENTS",
+			"scope": "comments.deprecated",
+			"foreground": "rgba(125,0,255,1)",
+			"background": "rgba(125,0,255,0.05)",
+		},
+		{
+			"name": "QUESTION COMMENTS",
+			"scope": "comments.question",
+			"foreground": "rgba(0,255,255,1)",
+			"background": "rgba(0,255,255,0.05)",
+		},
+		{
+			"name": "TODO COMMENTS",
+			"scope": "comments.todo",
+			"foreground": "rgba(255,255,0,1)",
+			"background": "rgba(255,255,0,0.05)",
+		},
+		{
+			"name": "FIXME COMMENTS",
+			"scope": "comments.fixme",
+			"foreground": "rgba(255,0,255,1)",
+			"background": "rgba(255,0,255,0.05)",
+		},
+		{
+			"name": "UNDEFINED COMMENTS",
+			"scope": "comments.undefined",
+			"foreground": "rgba(0,255,0,1)",
+			"background": "rgba(0,255,0,0.05)",
+		},
+	],
+}

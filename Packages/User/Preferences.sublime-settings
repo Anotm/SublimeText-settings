@@ -1,0 +1,14 @@
+{
+	"ignored_packages":
+	[
+	],
+    "color_scheme": "Packages/SynthWave 84 - Color Scheme/SynthWave 84.tmTheme",
+	"theme": "Default Dark.sublime-theme",
+	"tabs_small": true,
+	"status_bar_brighter": true,
+	"color_inactive_tabs": true,
+	"tabs_padding_small": true,
+	"tabs_label_not_italic": true,
+	"font_size": 8,
+	"index_files": true,
+}
